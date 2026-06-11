@@ -1,0 +1,19 @@
+{
+  "name": "Premium Crypto Engine",
+  "short_name": "CryptoEngine",
+  "description": "Generador de contraseñas de alta seguridad e inspiración suiza moderna.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F6F1E8",
+  "theme_color": "#9B4A39",
+  "orientation": "any",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

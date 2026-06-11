@@ -1,0 +1,6 @@
+{
+  "name": "Generador de Contraseñas",
+  "description": "Generador de contraseñas de alta precisión inspirado en el diseño suizo, con algoritmos sofisticados, soporte PWA offline y privacidad absoluta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

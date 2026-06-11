@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="140" fill="#9B4A39" />
+  <!-- Keys, shields, and Swiss aesthetics in matte cream -->
+  <g fill="#F6F1E8">
+    <!-- Centered high-precision key -->
+    <path d="M256 110c-49.7 0-90 40.3-90 90 0 39.3 25.3 72.7 60 84.8V370h-30v40h30v40h60v-40h30v-40h-30V284.8c34.7-12.1 60-45.5 60-84.8 0-49.7-40.3-90-90-90zm0 120c-16.6 0-30-13.4-30-30s13.4-30 30-30 30 13.4 30 30-13.4 30-30 30z"/>
+    <!-- Subtle Swiss cross embedded on the key head -->
+    <path d="M256 182v36h-6v-36h-15v-6h15v-36h6v36h15v6h-15z" fill="#9B4A39"/>
+  </g>
+</svg>
